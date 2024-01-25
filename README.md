@@ -1,2 +1,3 @@
 ### 👋 Hello! My name is Cade Webb, and I am a current computer engineering student at San Diego State University.
-- I am currently interested in embedded programming and web development.
+- My programming knowledge includes mainyl C, Python, and Verilog. However I have some experience with assembly as well.
+- Currently, I am most interested in embedded programming and web development.
